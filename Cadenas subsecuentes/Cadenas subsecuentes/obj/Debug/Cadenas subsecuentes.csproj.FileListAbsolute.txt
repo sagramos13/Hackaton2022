@@ -1,0 +1,7 @@
+C:\Users\sagra\source\repos\Cadenas subsecuentes\Cadenas subsecuentes\bin\Debug\Cadenas subsecuentes.exe.config
+C:\Users\sagra\source\repos\Cadenas subsecuentes\Cadenas subsecuentes\bin\Debug\Cadenas subsecuentes.exe
+C:\Users\sagra\source\repos\Cadenas subsecuentes\Cadenas subsecuentes\bin\Debug\Cadenas subsecuentes.pdb
+C:\Users\sagra\source\repos\Cadenas subsecuentes\Cadenas subsecuentes\obj\Debug\Cadenas subsecuentes.csprojAssemblyReference.cache
+C:\Users\sagra\source\repos\Cadenas subsecuentes\Cadenas subsecuentes\obj\Debug\Cadenas subsecuentes.csproj.CoreCompileInputs.cache
+C:\Users\sagra\source\repos\Cadenas subsecuentes\Cadenas subsecuentes\obj\Debug\Cadenas subsecuentes.exe
+C:\Users\sagra\source\repos\Cadenas subsecuentes\Cadenas subsecuentes\obj\Debug\Cadenas subsecuentes.pdb
