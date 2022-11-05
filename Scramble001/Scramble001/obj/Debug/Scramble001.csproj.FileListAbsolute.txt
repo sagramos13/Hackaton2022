@@ -1,0 +1,7 @@
+C:\Users\sagra\source\repos\Scramble001\Scramble001\bin\Debug\Scramble001.exe.config
+C:\Users\sagra\source\repos\Scramble001\Scramble001\bin\Debug\Scramble001.exe
+C:\Users\sagra\source\repos\Scramble001\Scramble001\bin\Debug\Scramble001.pdb
+C:\Users\sagra\source\repos\Scramble001\Scramble001\obj\Debug\Scramble001.csprojAssemblyReference.cache
+C:\Users\sagra\source\repos\Scramble001\Scramble001\obj\Debug\Scramble001.csproj.CoreCompileInputs.cache
+C:\Users\sagra\source\repos\Scramble001\Scramble001\obj\Debug\Scramble001.exe
+C:\Users\sagra\source\repos\Scramble001\Scramble001\obj\Debug\Scramble001.pdb
